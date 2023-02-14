@@ -1,0 +1,16 @@
+
+
+
+:root{
+    --primary-font: Arial, Helvetica, sans-serif;
+    --secondary-font: "Exo", sans-serif;
+    --terciary-font: "Alegreya", "sans-serif";
+    --quaternary-font: 'Playfair Display', serif;
+}
+
+body{
+    font-family: var(--primary-font);
+    font-weight: 100;
+    margin: 0%;
+}
+
